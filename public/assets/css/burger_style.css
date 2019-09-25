@@ -1,6 +1,7 @@
 body {
-	font-family: Arial, Helvetica, sans-serif ;
+	font-family: 'Roboto';
 	display: block;
+	letter-spacing: .5px;
 	height: 100%;
 	background-color:#89eac6;
 }
@@ -9,11 +10,12 @@ h1 {
 	font-size: 4em;
 	font-family: 'Roboto';
 	font-weight: normal;
+	letter-spacing: 4px;
 	margin-bottom: 5px;
 }
 
 h2 {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Roboto';
 }
 
 img {
@@ -43,7 +45,7 @@ button {
 .jumbotron {
 	padding: 20px;
 	margin: 0 auto;
-	background-color: #FFFACC;
+	background-color: #ffffff;
 	text-align: center;
 }
 

@@ -11,7 +11,7 @@ $(function() {
 		};
 
 		//send the PUT request
-		$.ajax("/api/burgers/" + id, {
+		$.ajax("/api/burger/" + id, {
 			type: "PUT",
 			data: devoured
 		}).then(
