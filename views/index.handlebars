@@ -1,13 +1,13 @@
 <div class="container">
     <div class="jumbotron">
         <h1>Burgers Application</h1>
-        <img src="/public/assets/img/burger gif.gif" alt="Burger Image" style="width:300px; height:300;">
+        <img src="/public/assets/img/burger.gif" alt="Burger Image" style="width:300px; height:300;">
 
     </div>
     <br>
     <!-- <div class="burgers-div"> -->
     <div class="burgers1">
-        <h2>Burgers To Eat</h2>
+        <h2>Burgers Available To Eat</h2>
         <ul>
             {{#each burger}}
             {{#unless devoured}}
@@ -17,9 +17,8 @@
         </ul>
     </div>
 
-
     <div class="burgers2">
-        <h2>Burgers You Ate</h2>
+        <h2>Burgers Devoured</h2>
         <ul>
             {{#each burger}}
             {{#if devoured}}
