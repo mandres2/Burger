@@ -1,8 +1,8 @@
 const express = require("express");
 let router = express.Router();
 
-// import .js file from model folder.
-let burger = require("../models/burger");
+// import .js file
+let burger = require("../models/burger.js");
 
 // Routes:
 
@@ -32,8 +32,8 @@ router.post("/api/burger", function (req, res) {
 });
 
 // Route 3: UPDATE
-router.put("/api/burgers/:id", function(req, res) {
-    // This route will alow the user to devour the burger for the on-click function.
+router.put("/api/burger/:id", function(req, res) {
+    // This route will allow the user to devour the burger for the on-click function.
 
     let condition = "id = " + req.params.id;
 

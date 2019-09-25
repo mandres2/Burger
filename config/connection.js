@@ -16,7 +16,6 @@ if (process.env.PORT) {
     });
 }
 
-
 //connect to the database
 connection.connect();
 

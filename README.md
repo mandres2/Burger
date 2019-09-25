@@ -82,8 +82,8 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 <br>
 :heavy_check_mark: 9.22 - Reviewed requirements. Established repository, files/folders, and began markdown on README.md.
 <br>
-:heavy_check_mark: 9.24 - Began rough drafting HTML layout via Adobe XD. Started coding database, backend logic (server), and minor coding on front-end.
+:heavy_check_mark: 9.24 - Began rough drafting HTML layout via Adobe XD. Started coding database, backend logic (server, controllers, connection), and front end
 <br>
-:heavy_check_mark: 9.26 -
+:heavy_check_mark: 9.26 - Checking Paths and debugging routes
 <br>
 :heavy_check_mark: 9.27 -
