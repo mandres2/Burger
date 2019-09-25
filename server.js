@@ -6,7 +6,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 // Declare PORT, process.env.PORT is used in the production environment and this PORT number is it's value via Heroku.
 // When in the development environment use PORT 8080 (this port number is a common convention)
-let PORT = process.env.PORT || 8080;
+let PORT = process.env.PORT || 3000;
 
 // Declare an instance of an express application:
 let app = express();
