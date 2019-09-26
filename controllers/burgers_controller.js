@@ -13,6 +13,7 @@ router.get("/", function (req, res) {
         let hbsObject = {
             burger: data
         };
+        // Testing variable hbsObject
         console.log(hbsObject);
         res.render("index", hbsObject);
     });
@@ -22,6 +23,7 @@ router.get("/", function (req, res) {
 router.post("/api/burger", function (req, res) {
     // This route will allow the user to add a burger.
 
+    // testing req.body.burger_name
     console.log(req.body.burger_name);
 
     burger.create(["burger_name"], [req.body.burger_name], function result(result) {
