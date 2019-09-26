@@ -1,11 +1,19 @@
 # Burger Application
 
+![alt text](insert image)
+
+![alt text](insert image)
+
+![alt text](insert image)
+
 ## Motive:
 As a Full Stack Developer, the primary motive was to build an application by utilizing an ORM methodology and establishing a MVC framework. Exerting these types of practices provides an organized/clean environment and allows other developers to maneuver around the code with ease.
 
 ## Getting Started
 
-:black_small_square: <b>To get started:</b> You will need to have an updated IDE (preferably VS Code), and the latest version of Node.js, and an up-to-date version of Express, and Heroku.
+<b>To get started:</b>
+<br>
+:black_small_square: You will need to have an updated IDE (preferably VS Code), and the latest version of Node.js, and an up-to-date version of Express, and Heroku.
 
 ### Prerequisites
 
@@ -13,28 +21,29 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 <br>
 :black_small_square: Node.js (Version: 12.9.0 or higher)
 <br>
-:black_small_square: Express
+:black_small_square: Express - Web application framework designed for building web applications and APIs.
 <br>
-:black_small_square: Heroku
+:black_small_square: Heroku - Container-based cloud Platform as a Service (PaaS). Heroku enables developers to build, run, and operate applications entirely in the cloud.
 <br>
-:black_small_square: MySQL
+:black_small_square: MySQL - Open-source relational database management system.
+<br>
+:black_small_square: JawsDB MySQL - free Heroku add-on application that gives access to a fully-functional MySQL database with no barriers or hoops to jump through.
 
-
-### Burger App:
-![alt text](insert image)
-
-![alt text](insert image)
 
 ## Code Explanation
 
+
 ## How To Use The Application:
-1. To utilize the application, go the designated Heroku link:
-2. In the form, you can type the type of burger you want. Then press the Add Burger Button.
-3. The burger
+1. To utilize the application, click on the designated Heroku link:
+2. When you arrive to the main page, at the bottom there is a form called: 'Customize Your Own Burger.' In the form, you can type the type of burger you want. Then press the 'Add Burger' Button.
+3. The burger that you just entered in the form will now show in the left-hand side panel: 'Burgers available to eat.'
+4. There is a devour button next to each burger. Click the button to "devour" the burger.
+5. After the burger you selected to eat will show on the right hand side panel called: 'Burgers Devoured.'
+6. If the user decides to create another burger, repeat procedure: #2-5.
 
 ## Deployment
 
-* <b> 'git push' the files into GitHub Profile and Heroku.</b>
+* <b> 'git push origin master' & 'git push heroku master' the files into GitHub Profile and Heroku respectively.</b>
 * <b> Link repository and Heroku deployment link to BCS.</b>
 
 ## Built With
