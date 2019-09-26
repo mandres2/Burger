@@ -29,6 +29,8 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 ## Code Explanation:
 * The way the code was written out was utilizing ORM (Object-Relational Mapping), while establishing an MVC (Model-View-Controller) framework.
   1. server.js that contains the npm packages for express, body-parser, and path. The server.js sets up the app(instance of express) as well as setting up handlebars, and import the routes.
+  2. The db folder contains the MySQL data which is primarily the burgers created/devoured. schema.sql is the table for burgers. seeds.sql contains the lists of generic burgers imported into the table.
+  3.
 
 
 ## How To Use The Application:
