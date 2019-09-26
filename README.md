@@ -1,10 +1,6 @@
 # Burger Application
 
-![alt text](insert image)
-
-![alt text](insert image)
-
-![alt text](insert image)
+![alt text](https://github.com/mandres2/Burger/blob/master/public/assets/img/burgerApp_ReadME.gif?raw=true)
 
 ## Motive:
 As a Full Stack Developer, the primary motive was to build an application by utilizing an ORM methodology and establishing a MVC framework. Exerting these types of practices provides an organized/clean environment and allows other developers to maneuver around the code with ease.
@@ -40,6 +36,11 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 4. There is a devour button next to each burger. Click the button to "devour" the burger.
 5. After the burger you selected to eat will show on the right hand side panel called: 'Burgers Devoured.'
 6. If the user decides to create another burger, repeat procedure: #2-5.
+
+![alt text](https://github.com/mandres2/Burger/blob/master/public/assets/img/Customize%20your%20burger.png?raw=true)
+
+![alt text](https://github.com/mandres2/Burger/blob/master/public/assets/img/Burgers%20Available%20to%20Eat%20and%20Devoured.png)
+
 
 ## Deployment
 
