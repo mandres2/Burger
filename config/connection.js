@@ -4,8 +4,8 @@ const mysql = require("mysql");
 let connection;
 
 
-if (process.env.PORT) {
-    connection = mysql.createConnection(process.env.PORT);
+if (process.env.JAWSDB_URL) {
+    connection = mysql.createConnection(process.env.JAWSDB_URL);
 } else {
     connection = mysql.createConnection({
         port: 3306,
@@ -15,6 +15,8 @@ if (process.env.PORT) {
         database: "burgers_db"
     });
 }
+
+
 
 //connect to the database
 connection.connect();
