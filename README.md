@@ -28,7 +28,9 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 ## Code Explanation
 
 ## How To Use The Application:
-1.
+1. To utilize the application, go the designated Heroku link:
+2. In the form, you can type the type of burger you want. Then press the Add Burger Button.
+3. The burger
 
 ## Deployment
 
@@ -58,8 +60,6 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 
 :black_small_square: mysql
 <br>
-:black_small_square: express v4.17.1
-<br>
 :black_small_square: express-handlebars
 <br>
 :black_small_square: body-parser v1.19.0
@@ -85,8 +85,8 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 <br>
 :heavy_check_mark: 9.22 - Reviewed requirements. Established repository, files/folders, and began markdown on README.md.
 <br>
-:heavy_check_mark: 9.24 - Began rough drafting HTML layout via Adobe XD. Started coding database, backend logic (server, controllers, connection), and front end
+:heavy_check_mark: 9.24/9.25 - Began rough drafting HTML layout via Adobe XD. Started coding database, backend logic (server, controllers, connection), and front end
 <br>
-:heavy_check_mark: 9.26 - Checking Paths and debugging routes
+:heavy_check_mark: 9.26 - Checking paths and debugging routes
 <br>
-:heavy_check_mark: 9.27 -
+:heavy_check_mark: 9.27 - Polishing application with final touches followed by application deployment.
