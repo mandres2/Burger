@@ -72,9 +72,9 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 
 ## npm Packages Used:
 
-:black_small_square: mysql
+:black_small_square: mysql v2.17.1
 <br>
-:black_small_square: express-handlebars
+:black_small_square: express-handlebars v3.1.0
 <br>
 :black_small_square: body-parser v1.19.0
 <br>
