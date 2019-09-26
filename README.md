@@ -87,6 +87,6 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 <br>
 :heavy_check_mark: 9.24/9.25 - Began rough drafting HTML layout via Adobe XD. Started coding database, backend logic (server, controllers, connection), and front end
 <br>
-:heavy_check_mark: 9.26 - Checking paths and debugging routes
+:heavy_check_mark: 9.26 - Checking paths and debugging routes (JawsDB/MySQL Path to Heroku)
 <br>
 :heavy_check_mark: 9.27 - Polishing application with final touches followed by application deployment.
