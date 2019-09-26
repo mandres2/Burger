@@ -27,6 +27,9 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 
 ## Code Explanation
 
+## How To Use The Application:
+1.
+
 ## Deployment
 
 * <b> 'git push' the files into GitHub Profile and Heroku.</b>
