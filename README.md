@@ -26,7 +26,8 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 :black_small_square: JawsDB MySQL - free Heroku add-on application that gives access to a fully-functional MySQL database with no barriers or hoops to jump through.
 
 
-## Code Explanation
+## Code Explanation:
+* The way the code was written out was utilizing ORM (Object-Relational Mapping), while establishing an MVC (Model-View-Controller) framework. server.js contains
 
 
 ## How To Use The Application:
@@ -52,13 +53,13 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 <br>
 :black_small_square: Microsoft Studios Visual Code (v1.37.1)
 <br>
-:black_small_square: Express
+:black_small_square: Express - Web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs
 <br>
-:black_small_square: MySQL
+:black_small_square: MySQL - Open-source relational database management system
 <br>
-:black_small_square: Handlebars
+:black_small_square: Handlebars - Handlebars.js is a client-side (though it can be used on the server, too) templating engine for JavaScript.
 <br>
-:black_small_square: Google Chrome
+:black_small_square: Google Chrome v77.0.3865.90(Windows)
 <br>
 :black_small_square: Node.js v12.9.0
 <br>
