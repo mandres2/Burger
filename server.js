@@ -6,7 +6,6 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const path = require ("path");
 
-
 // Declare an instance of an express application:
 let app = express();
 // Declare PORT, process.env.PORT is used in the production environment and this PORT number is it's value via Heroku.
