@@ -30,11 +30,11 @@ app.use(bodyParser.text());
 app.use(bodyParser.json({ type: 'application/vnd.api+json' }));
 
 // Set Handlebars.
-// app.engine is setting the view engin as well as the default layout. This line tells express to look in the /views/layout folder for a main.handlebars
+// app.engine is setting the view engine as well as the default layout. This line tells express to look in the /views/layout folder for a main.handlebars
 const exphbs = require("express-handlebars");
 // Using template engines with Express
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
-// when I run res.render('index'), express knows to look in our views folder for an index.handlebars
+// when I run res.render('index'), express knows to look in our views folder for an index.handlebars which c34
 app.set("view engine", "handlebars");
 
 // Import routes and give the server access to them.

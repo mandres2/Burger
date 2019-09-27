@@ -30,7 +30,7 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 * The way the code was written out was utilizing ORM (Object-Relational Mapping), while establishing an MVC (Model-View-Controller) framework.
   1. server.js that contains the npm packages for express, body-parser, and path. The server.js sets up the app(instance of express) as well as setting up handlebars, and import the routes.
   2. The db folder contains the MySQL data which is primarily the burgers created/devoured. schema.sql is the table for burgers. seeds.sql contains the lists of generic burgers imported into the table.
-  3.
+  3. The public folder contains primarily the front-end code. It also contains the CSS styling for the web page as well.
 
 
 ## How To Use The Application:
@@ -76,9 +76,9 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 <br>
 :black_small_square: express-handlebars v3.1.0
 <br>
-:black_small_square: body-parser v1.19.0
+:black_small_square: body-parser v1.19.0 - Node path middleware.
 <br>
-:black_small_square: path v0.12.7
+:black_small_square: path v0.12.7 - NodeJS ’path’ module
 
 ## Author
 
