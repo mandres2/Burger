@@ -30,8 +30,10 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 * The way the code was written out was utilizing ORM (Object-Relational Mapping), while establishing an MVC (Model-View-Controller) framework.
   1. 'server.js' that contains the npm packages for express, body-parser, and path. The server.js sets up the app(instance of express) as well as setting up handlebars, and import the routes.
   2. The 'db' folder contains the MySQL data which is primarily the burgers created/devoured. schema.sql is the table for burgers. seeds.sql contains the lists of generic burgers imported into the table.
-  3. The 'public' folder contains primarily the front-end code. It also contains the CSS styling for the web page as well.
+  3. The 'public' folder contains primarily the front-end code. It also contains the CSS styling for the web page as well. The folder contains the images/screenshots used in the application.
   4. The 'views' folder contains all of Handlebar's code.
+  5. 'controllers' folder contains has the update function for a devoured burger.
+  6. 'config' folder contains the connections and orm model for the application.
 
 
 ## How To Use The Application:
