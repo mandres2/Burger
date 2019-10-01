@@ -107,3 +107,6 @@ As a Full Stack Developer, the primary motive was to build an application by uti
 :heavy_check_mark: 9.26 - Checking paths and debugging routes (JawsDB/MySQL Path to Heroku)
 <br>
 :heavy_check_mark: 9.27 - Polishing application with final touches followed by application deployment.
+<br>
+:heavy_check_mark: 9.27 - Adjusted markdown documentation.
+
